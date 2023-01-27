@@ -11,8 +11,9 @@ public class Per {
         int c = SC.nextInt();
         int d = SC.nextInt();
         int e = SC.nextInt();
+        SC.close();
         int oT = a + b + c + d + e;
-        System.out.println("total of five sub marks" + oT);
+        System.out.println("total of five sub marks " + oT);
         int p = oT / 5;
         System.out.println("percentage is" + p + "%");
     }
