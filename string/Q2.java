@@ -24,7 +24,7 @@ public class Q2 {
         } else {
             System.out.println("fail");
         }
-        ;
+
 
     }
 }

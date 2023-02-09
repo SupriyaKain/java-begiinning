@@ -1,5 +1,6 @@
-import java.util.Scanner;
 
+package basic;
+import java.util.Scanner;
 public class Greeting {
     public static void main(String[] args) {
         Scanner SC = new Scanner(System.in);
