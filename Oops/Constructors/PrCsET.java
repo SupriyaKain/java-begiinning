@@ -1,6 +1,4 @@
-package Constructors;
-
-import java.sql.SQLOutput;
+package Oops.Constructors;
 
 class Cylinder{// q1+q2
     int radius;
